@@ -1,4 +1,4 @@
-// HTML5 Asteroids was developed by Travis Luong
+// HTML5 Asteroids was developed by Nick Varley
 
 // declare globals
 var WIDTH = 800;
